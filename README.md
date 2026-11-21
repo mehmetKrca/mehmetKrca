@@ -80,7 +80,7 @@ Bir hukuk bürosu için Django + React ile geliştirdiğim, admin panelinden iç
 
 `Django` `React`
 
-#### 🤖 [LLM Destekli Türkiye İş Piyasası Analizi](https://github.com/mehmetKrca/is-ilani-analizi)
+#### 🤖 [LLM Destekli Türkiye İş Piyasası Analizi](https://github.com/mehmetKrca/is-ilani-analizi) · 🟢 [Canlı demo](https://is-piyasasi-llm.streamlit.app/)
 
 Yapay Zekâ dersi için geliştirdiğim akademik proje: Türkiye'deki iş ilanlarını toplayıp yerel bir büyük dil modeliyle analiz ediyor.
 
