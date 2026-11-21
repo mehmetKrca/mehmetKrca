@@ -80,6 +80,16 @@ Bir hukuk bürosu için Django + React ile geliştirdiğim, admin panelinden iç
 
 `Django` `React`
 
+#### 🤖 [LLM Destekli Türkiye İş Piyasası Analizi](https://github.com/mehmetKrca/is-ilani-analizi)
+
+Yapay Zekâ dersi için geliştirdiğim akademik proje: Türkiye'deki iş ilanlarını toplayıp yerel bir büyük dil modeliyle analiz ediyor.
+
+- İlanları iki farklı yöntemle topladım: **Selenium** ve **BeautifulSoup**. 40 ilden 395 ilan toplandı, iki yöntemin hız ve başarısını karşılaştırdım
+- **Ollama (Qwen 2.5 7B)** her ilandan pozisyon, sektör, seviye, beceriler ve eğitim gibi bilgileri çıkarıyor; çıktı Pydantic JSON şemasına uymaya zorlanıyor
+- Sonuçlar **Streamlit** arayüzünde 4 sayfalık panelde gösteriliyor
+
+`Python` `Selenium` `BeautifulSoup` `Ollama` `Streamlit`
+
 #### 🏗️ Kurumsal Tanıtım Siteleri
 
 | Proje | Açıklama |
