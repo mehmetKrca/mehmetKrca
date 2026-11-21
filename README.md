@@ -74,7 +74,7 @@ Bursa merkezli, Türkiye genelinde banka şubesi yapım ve tadilat işi yapan bi
 
 `Django` `React`
 
-#### ⚖️ [Şentürk Hukuk](https://github.com/mehmetKrca/senturk-hukuk)
+#### ⚖️ [Şentürk Hukuk](https://senturkavukatlikburosu.com) · 🟢 Canlı
 
 Bir hukuk bürosu için Django + React ile geliştirdiğim, admin panelinden içerik yönetimi yapılabilen tam kapsamlı web sitesi.
 
